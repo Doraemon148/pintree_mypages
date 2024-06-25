@@ -1,10 +1,4 @@
-# pintree
-An intuitive tool for managing and exporting your local bookmarks into a shareable website. 
 
-#### 对这个项目感兴趣可以扫码加群，也可以添加我的微信: ```Gift_wei``` 我拉你进开发群
-![](/assets/wechat_group.png)
-
-## 本项目还没有正式发布，但是已经可以下载测试了，下面是一个简单的教程，按照下面流程操作即可
 ### Step 1：
 下载这个项目到本地
 ### Step 2: 
